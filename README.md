@@ -45,6 +45,9 @@ Fun fact : I Always try to learn something new and then sleep till it store in t
   <hr>
   <p align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daanish2709g&layout=compact)](https://github.com/YourUsername)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Daanish2709g&theme=dark&hide_border=true&hide_current_streak_date=true&hide_longest_streak_date=true&hide_total_contributions_date=true)](https://git.io/streak-stats)
 
 <hr>
