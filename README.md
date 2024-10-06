@@ -54,6 +54,9 @@ Fun fact : I Always try to learn something new and then sleep till it store in t
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Daanish2709g&theme=dark&hide_border=true&hide_current_streak_date=true&hide_longest_streak_date=true&hide_total_contributions_date=true)](https://git.io/streak-stats)
 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/daanishsumkesula?ext=activity)
+my leet code in github
 <hr>
 
 
