@@ -56,7 +56,6 @@ Fun fact : I Always try to learn something new and then sleep till it store in t
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/daanishsumkesula?ext=activity)
-my leet code in github
 <hr>
 
 
