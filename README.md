@@ -7,7 +7,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;Java%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
 	</a>
 </p>
-
+       
 <pre>
 💻 I am developing my skills as a Full stack Developer | Enthuastic about new technologies
 📚 I have a Bachelors of Science in Information technology 
