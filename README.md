@@ -2,7 +2,7 @@
                                            
 <a target="_blank" href="https://www.stefanosst.gr"><img src="(https://github.com/Daanish2709g/Daanish2709g/edit/main/README.md).png"/></a>
                                                
-<p align="center">                                                                            
+<p align="center">                                                                                       
 	<a href="https://github.com/Bouaskaoun">                                        
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;Java%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
 	</a>
