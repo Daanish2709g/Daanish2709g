@@ -10,7 +10,7 @@
 
                 
 <pre>
-💻 I am developing my skills as a Full stack Developer | Enthuastic about new technologies
+💻 I am developing my skills as a Full stack Developer | Enthuastic about new technologies 
 📚 I have a Bachelors of Science in Information technology 
 📝 I have a strong interest in building Backend applications
 🔭 Working on Cloud and cyber security Visions
